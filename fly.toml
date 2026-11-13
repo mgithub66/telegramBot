@@ -1,0 +1,7 @@
+
+app = "learning-bot-mohamad-2026"
+
+primary_region = "fra"
+
+[build]
+  dockerfile = "Dockerfile"
